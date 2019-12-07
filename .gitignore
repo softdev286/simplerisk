@@ -1,0 +1,12 @@
+*.swp
+/includes/csrf-magic/csrf-secret.php
+/includes/Component_ZendEscaper
+/includes/epiphany
+/includes/PHPMailer
+/includes/config.php
+/.buildpath
+/.project
+/.sass-cache
+/scss/theme.css
+/extras/encryption/includes/
+README.md
